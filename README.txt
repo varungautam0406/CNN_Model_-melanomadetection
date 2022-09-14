@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Project Name- Melanoma Detection Assignment
+> A multiclass classification model using a custom convolutional neural network in TensorFlow
 
 
 ## Table of Contents
@@ -8,7 +8,7 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+
 
 ## General Information
 - Provide general information about your project here.
